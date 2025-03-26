@@ -20,47 +20,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Taxation & Financial Legal Services",
+      "largeImage": "img/portfolio/01-large.webp",
+      "smallImage": "img/portfolio/01-small.webp"
     },
     {
-      "title": "Project Title",
+      "title": "Corporate Law",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Civil Matters",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Banking & Finance",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Criminal Law",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Contract Laws & Agreement Drafting",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Family Law",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Service & Employment",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Consumer Rights",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -180,10 +180,10 @@
     "address": "931,9th Floor,Golden Jubilee Chamber Complex - Kerala High Court Advocates Association, Near  High Court of Kerala, Marine Drive, Cochin-31",
     "phone": "+91-9400950098,9400321007",
 	  "whatsapp": "https://wa.me/919400950098",
-    "email": "mailto:bellsandbarristers@gmail.com",
+    "email": "bellsandbarristers@gmail.com",
     "facebook": "https://www.facebook.com/BellsandBarristers",
     "instagram": "https://www.instagram.com/bellsandbarristers",
-    "google_business": "https://g.page/r/gH7dhCT"
+    "google": "https://maps.app.goo.gl/g8DAqq2pcyCBVvA56"
   },
   "Features": [
         {

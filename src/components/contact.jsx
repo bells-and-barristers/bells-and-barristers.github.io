@@ -144,6 +144,11 @@ export const Contact = (props) => {
                       <i className="fa fa-instagram"></i>
                     </a>
                   </li>
+                  <li>
+                    <a href={props.data ? props.data.google : "/"}>
+                      <i className="fa fa-google"></i>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -154,7 +159,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2025 P23 Systems. Design by{" "}
-            <a href="http://www.p23.systems" rel="nofollow">
+            <a href="http://www.p23systems.net" rel="nofollow">
               P23 Systems
             </a>
           </p>
