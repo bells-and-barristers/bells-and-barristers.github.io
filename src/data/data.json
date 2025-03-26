@@ -67,7 +67,7 @@
   ],
   "Services": [
   {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-shield",
       "name": "Criminal Law & Defence"
     },
     {
@@ -83,7 +83,7 @@
       "name": "Consumer Law"
     },
     {
-      "icon": "fa fa-building",
+      "icon": "fa fa-suitcase",
       "name": "Corporate Law"
     },
     {
@@ -95,11 +95,11 @@
       "name": "Property & Land Laws"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-file-o",
       "name": "Service & Employment Laws"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-chain",
       "name": "Human Rights"
     },
     {
@@ -111,19 +111,19 @@
       "name": "Crime Against Women"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-wrench",
       "name": "Labour Laws"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-road",
       "name": "Motor Accident Claims"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-money",
       "name": "Taxation & Financial Legal Services"
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-pencil",
       "name": "Contract Laws & Agreement Drafting"
     }
   ],
@@ -187,22 +187,22 @@
   },
   "Features": [
         {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-bullseye",
       "title": "Expert Legal Consultation",
       "text": "Receive professional legal advice tailored to your needs, backed by years of experience in diverse legal domains."
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-bolt",
       "title": "Strong Legal Representation",
       "text": "Our skilled attorneys advocate for your rights with confidence in courts, tribunals, and negotiation tables."
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-crosshairs",
       "title": "Client-Centered Approach",
       "text": "We prioritize your interests with a strategic, transparent, and solution-driven legal process."
     },
     {
-      "icon": "fa fa-gavel",
+      "icon": "fa fa-lightbulb-o",
       "title": "Innovative Legal Solutions",
       "text": "Leveraging modern legal strategies and technology to deliver efficient and effective legal outcomes."
     }
